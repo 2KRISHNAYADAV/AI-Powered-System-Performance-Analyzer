@@ -1,10 +1,3 @@
-<div align="center">
-
-<img src="assets/images/hero_banner.png" alt="SystemHero Dashboard" width="100%"/>
-
-<br/>
-<br/>
-
 # ⚡ SystemHero
 ### Next-Generation Performance Analytics
 
