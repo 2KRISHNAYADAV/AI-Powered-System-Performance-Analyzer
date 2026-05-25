@@ -1,0 +1,46 @@
+{
+    "general": {
+        "theme": "dark",
+        "language": "English",
+        "run_on_startup": true,
+        "refresh_rate": 2
+    },
+    "performance": {
+        "cpu_alert_threshold": 85,
+        "ram_alert_threshold": 85,
+        "background_monitoring": true,
+        "data_polling": 1
+    },
+    "ai": {
+        "prediction_enabled": false,
+        "sensitivity": "medium",
+        "model": "advanced",
+        "update_interval": 15
+    },
+    "alerts": {
+        "cpu_spikes": true,
+        "ram_overflow": true,
+        "disk_limits": true,
+        "notification_mode": "popup",
+        "cpu_threshold": 85,
+        "ram_threshold": 85
+    },
+    "visualization": {
+        "graph_type": "line",
+        "anim_speed": "normal",
+        "show_predictions": true
+    },
+    "data": {
+        "retention": "1h"
+    },
+    "security": {
+        "lock_dashboard": false,
+        "password": "",
+        "hide_sensitive": false,
+        "secure_mode": false
+    },
+    "advanced": {
+        "developer_mode": false,
+        "auto_kill_rogue_processes": false
+    }
+}
